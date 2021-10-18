@@ -10,7 +10,7 @@ transaction-type="RESOURCE_LOCAL">
 <properties>
 <property name="javax.persistence.jdbc.url"
 value="jdbc:sqlserver://localhost:1433;databaseName=CapacitacaoPSG2021H3;" />
-<property name="javax.persistence.jdbc.user" value="test" />
+<property name="javax.persistence.jdbc.user" value="sa" />
 <property name="javax.persistence.jdbc.driver"
 value="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
 <property name="javax.persistence.jdbc.password" value="senha123" />
